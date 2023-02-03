@@ -1,4 +1,5 @@
 # Motion Detection and Bluetooth Control Lights using Arduino
+Contains Arduino Code and Android Application for Controlling Lights
 
 ## Requirements
 * Windows 10 or Above
