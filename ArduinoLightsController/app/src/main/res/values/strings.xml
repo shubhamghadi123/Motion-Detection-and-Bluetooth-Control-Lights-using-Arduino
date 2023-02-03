@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Arduino Lights Controller</string>
+
+    <string-array name="time_bulb">
+        <item>Select Time</item>
+        <item>10 Seconds</item>
+        <item>20 Seconds</item>
+        <item>30 Seconds</item>
+    </string-array>
+
+</resources>
