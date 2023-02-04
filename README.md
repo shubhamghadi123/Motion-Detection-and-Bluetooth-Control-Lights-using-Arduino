@@ -14,3 +14,9 @@ Contains Arduino Code and Android Application for Controlling Lights
 * Relay Module
 * Breadboard
 * Jumper Wires
+
+## Steps for Android Studio Project
+* Download 'ArduinoLightsController' folder into your PC.
+* Open 'ArduinoLightsController' project from Android Studio.
+* Connect your Android Device to PC and run the project.
+* You will have application installed into your device.
