@@ -24,7 +24,11 @@ Connect your Arduino Setup as per above image
 * Open Arduino IDE and paste the code from arduino.txt or open arduino.ino file.
 * Then Verify and Import code to your Arduino.
 
-(If code is not importing to your Arduino then remove RX and TX jumper wires and try again.) 
+(If code is not importing to your Arduino then remove RX and TX jumper wires and try again.)
+
+* When PIR Sensor detects any motion then the light will turn on for 5 seconds.
+
+(You can increase time from arduino code. Just change "delay(5000)" to any seconds you want.) [1s=1000]
 
 ## Steps for Android Studio Project
 * Download 'ArduinoLightsController' folder into your PC.
