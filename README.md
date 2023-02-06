@@ -30,6 +30,9 @@ Connect your Arduino Setup as per above image
 
 (You can increase time from arduino code. Just change "delay(5000)" to any seconds you want.) [1s=1000]
 
+## Sequence Diagram for Motion Detection
+<img src="Arduino%20IDE/Motion.png" width="500px">
+
 ## Steps for Android Studio Project
 * Download 'ArduinoLightsController' folder into your PC.
 * Open 'ArduinoLightsController' project from Android Studio.
