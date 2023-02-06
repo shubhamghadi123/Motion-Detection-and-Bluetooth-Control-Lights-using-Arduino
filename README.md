@@ -38,3 +38,6 @@ Connect your Arduino Setup as per above image
 * Open 'ArduinoLightsController' project from Android Studio.
 * Connect your Android Device to PC and run the project.
 * You will have application installed into your device.
+
+## Sequence Diagram for Android Application
+<img src="Arduino%20IDE/app.png" width="800px">
